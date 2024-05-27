@@ -1,0 +1,206 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Mikiyas Hailegebreal
+Mikiyas Hailegebreal
+Software Engineer
+
+Show Contacts
+
+Email
+mikiyasbutu@gmail.com
+
+Phone
++251 967 991 617
+
+Birthday
+September 9, 2003
+
+Location
+Adama, Ethiopia
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+I'm Software Engineering student from Addis Ababa, Ethiopia, working in web development and competitive programming. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. 
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of web apps at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+
+
+
+## testimonials
+
+Testimonials
+
+alt = Leul Gedion
+Leul Gedion
+Mikiyas is a wonderful Engineer. He has a lot of experience and is very concerned about the needs of client. His craft is second to none and his attention to detail is exceptional. His communication makes him shine while working within a team.
+
+alt = Matthias Mulugeta
+Matthias Mulugeta
+Mikiyas is a wonderful Engineer. He has a lot of experience and is very concerned about the needs of client. His craft is second to none and his attention to detail is exceptional. His communication makes him shine while working within a team.
+
+alt = Metasebiyaw Asfaw
+Metasebiyaw Asfaw
+Mikiyas is a wonderful Engineer. He has a lot of experience and is very concerned about the needs of client. His craft is second to none and his attention to detail is exceptional. His communication makes him shine while working within a team.
+
+alt = Henok Assefa
+Henok Assefa
+Mikiyas is a wonderful Engineer. He has a lot of experience and is very concerned about the needs of client. His craft is second to none and his attention to detail is exceptional. His communication makes him shine while working within a team.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+Adama Science and Technology University
+2022 — Present
+Currently a 3rd year enrolling in Software Engineering Bachelor program going into my 4th year.
+
+Kegn Azmach Andarge Welde Giyorgis High School
+2020 — 2022
+Went through one of the most recognizable schools in Addis Ababa where i got introduced to Web development.
+
+
+Experience
+
+Computer Science and Engineering club entrance Hackathon
+2023
+Participated on my first Hackathon to build a full stack club members managment system.
+
+Full stack web development bootcamp
+2024
+NTook part in the intensive bootcamp to learn NextJs, TailwindCss, Postgresql, Prisma, Express and more.
+
+ETCPC X ALX contest
+2024
+Participated on the competitive programming contest that shed a light for my DSA learning journey.
+
+My skills
+
+Web design
+80%
+HTML
+90%
+Css
+90%
+Javascript
+80%
+React
+80%
+NextJs
+70%
+NodeJs
+80%
+Express
+90%
+MongoDB
+70%
+Postgresql
+70%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
